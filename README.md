@@ -3,7 +3,6 @@
  <img src="https://komarev.com/ghpvc/?username=rliskunov" alt="rliskunov" /> 
 </p>
 
-- 💼 &nbsp;Currenty DevOps engineer at [UseTech](http://usetech.com)
 - 👾 &nbsp;Learn all about me on my personal [site](https://rliskunov.github.io)
 - 👀 &nbsp;Read my writings on my [blog](https://rliskunov.github.io)
 - 💭 &nbsp;Ask me about DevOps and SRE
