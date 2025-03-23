@@ -20,5 +20,5 @@
 
 <h3 align="left">The Languages</h3>
 <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rliskunov&layout=compact&hide=html" alt="rliskunov" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rliskunov&layout=compact&hide=html" alt="top-langs" />
 </p>
