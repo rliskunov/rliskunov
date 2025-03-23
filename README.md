@@ -4,7 +4,7 @@
 </p>
 
 - 👾 &nbsp;Learn all about me on my personal [site](https://rliskunov.github.io)
-- 👀 &nbsp;Read my writings on my [blog](https://rliskunov.github.io)
+- 👀 &nbsp;Read my writings on [Medium](https://medium.com/@liskunov.roma.rl)
 - 💭 &nbsp;Ask me about DevOps and SRE
 
 
@@ -22,9 +22,10 @@
  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust-lang" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/scylladb/scylladb-icon.svg" alt="scylladb" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="40" height="40"/>
 </p>
 
 <h3 align="left">The Languages</h3>
 <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rliskunov&layout=compact&hide=html" alt="top-langs" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rliskunov&layout=compact" alt="top-langs" />
 </p>
